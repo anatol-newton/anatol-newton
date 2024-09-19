@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Anatol Müller, but as this is often pronounced wrong you can just call me Newton!
+
 <!--
 **anatol-newton/anatol-newton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
